@@ -17,3 +17,12 @@
     transition: all 0.2s;
 }
 
+.introduction{
+    margin-top: 3rem;
+}
+
+.intro-para{
+    text-align: center;
+    margin-left: 12.5rem;
+    margin-right: 12.5rem;
+}
